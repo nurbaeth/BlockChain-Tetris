@@ -18,7 +18,7 @@
    ```bash
    pip install pygame
    ```
-3. Run the game:
+3. Run the game: 
    ```bash
    python main.py
    ```
