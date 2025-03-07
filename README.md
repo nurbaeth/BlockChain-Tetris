@@ -9,7 +9,7 @@
 - Dynamic **grid-based rendering** using Pygame
 
 ## 🛠 Installation
-1. Clone this repository:
+1. Clone this repository: 
    ```bash
    git clone https://github.com/yourusername/blockchain-tetris.git
    cd blockchain-tetris
