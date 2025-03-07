@@ -14,7 +14,7 @@
    git clone https://github.com/yourusername/blockchain-tetris.git
    cd blockchain-tetris
    ```
-2. Install dependencies:
+2. Install dependencies: 
    ```bash
    pip install pygame
    ```
