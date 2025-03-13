@@ -8,7 +8,7 @@
 - Randomly generated falling **Tetrimino pieces**
 - Dynamic **grid-based rendering** using Pygame
 
-## 🛠 Installation 
+## 🛠 Installation  
 1. Clone this repository: 
    ```bash
    git clone https://github.com/yourusername/blockchain-tetris.git
