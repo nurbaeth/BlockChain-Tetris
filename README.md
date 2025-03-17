@@ -15,7 +15,7 @@
    cd blockchain-tetris
    ```  
 2. Install dependencies:  
-   ```bash 
+   ```bash  
    pip install pygame
    ```
 3. Run the game: 
