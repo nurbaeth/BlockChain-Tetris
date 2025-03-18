@@ -10,7 +10,7 @@
 
 ## 🛠 Installation   
 1. Clone this repository: 
-   ```bash
+   ```bash 
    git clone https://github.com/yourusername/blockchain-tetris.git
    cd blockchain-tetris
    ```  
